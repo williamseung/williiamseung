@@ -1,5 +1,5 @@
 # About Me
-This is personal repository of William.
+This is a personal repository of William.
 
 William is a design curator based in London, learning about the digital.
 
